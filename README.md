@@ -1,4 +1,4 @@
-# ACM Club at CST
+# WHAZZZ UPPPPP!!!!!!!!!!
 
 ## Team Members
 - Member A: [Student Number]
