@@ -1,4 +1,4 @@
-# WHAZZZ UPPPPP!!!!!!!!!!
+# WHAZZZ UPPPP!!!!!!!!!!
 
 ## Team Members
 - Member A: [Student Number]
