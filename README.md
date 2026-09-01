@@ -1,9 +1,10 @@
-# WHAZZZ UPPPP!!!!!!!!!!
+# WHAZZZ UPPPP!!!!!!!!!! ahahhahahahhah ndajfjaddvjnasd
 
 ## Team Members
 - Member A: [Student Number]
 - Member B: [Student Number]
 - Member C: [Student Number]
+- Member D: [Student Number]
 
 ## Project Overview
 This is a collaborative website for the ACM Club at CST, built as part of CTE412 Lab 09.
